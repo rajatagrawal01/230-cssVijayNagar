@@ -1,0 +1,17 @@
+h1{
+    color: red;
+    text-decoration: solid underline;
+}
+.one{
+    text-decoration: dashed underline;
+
+    text-decoration-color: blue;
+}
+.two{
+    text-decoration-color: yellow;
+
+
+}
+#three{
+    color: blue;
+}
