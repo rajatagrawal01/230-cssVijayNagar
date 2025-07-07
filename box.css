@@ -1,0 +1,10 @@
+.one{
+    width: 50%;
+    height: 500px;
+    background-color: red;
+}
+.two{
+    width: 50%;
+    height: 50%;
+    background-color: blue;
+}
