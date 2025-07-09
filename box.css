@@ -1,10 +1,16 @@
 .one{
     width: 50%;
     height: 500px;
-    background-color: red;
+    background-color:red;
 }
 .two{
     width: 50%;
     height: 50%;
-    background-color: blue;
+    background-color: rgba(240, 101, 238,0.9)
+}
+.three{
+    width: 50%;
+    height: 50%;
+    background-color: #00ff00;
+    color: white ;
 }
